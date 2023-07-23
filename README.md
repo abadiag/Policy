@@ -1,0 +1,2 @@
+# Policy
+Policy of apps
